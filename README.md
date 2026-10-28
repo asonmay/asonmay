@@ -1,2 +1,2 @@
 ## Hi! I am Mason Lee
-I am a junior in high school interested in engineering.
+I am a junior in high school interested in engineering and computer science.
